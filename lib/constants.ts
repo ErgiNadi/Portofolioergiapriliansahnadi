@@ -41,6 +41,7 @@ export const siteConfig = {
 		},
 	],
 	links: {
+		linkedin: "https://www.linkedin.com/in/username-kamu",
 		github: 'https://github.com/ErgiNadi',		
 		instagram: 'https://www.instagram.com/apriliann.nadi/',
 		email: 'mailto:nadiergi49@gmail.com',
